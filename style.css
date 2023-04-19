@@ -62,6 +62,9 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
 }
 
 /*
